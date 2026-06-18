@@ -1,7 +1,7 @@
 # E-commerce Marketing Performance & CRM Monetization Analytics
 
-[![Tableau](https://img.shields.io/badge/Tableau-Public-Main?style=for-the-badge&logo=tableau&logoColor=white&color=E97627)](<img width="1512" height="900" alt="Screenshot 2569-06-18 at 16 10 46" src="https://github.com/user-attachments/assets/00317aaf-6c9c-463a-8b77-3992f34c19a8" />
-)
+[![Tableau](https://img.shields.io/badge/Tableau-Public-Main?style=for-the-badge&logo=tableau&logoColor=white&color=E97627)]<img width="1512" height="900" alt="Screenshot 2569-06-18 at 16 10 46" src="https://github.com/user-attachments/assets/8f932e9c-19ca-43b9-95e8-25e6a521c76b" />
+
 [![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)](data_simulation.py)
 [![SQL](https://img.shields.io/badge/SQL-SQLite%20%2F%20Postgres-blue?style=for-the-badge&logo=sqlite&logoColor=white)](marketing_logic.sql)
 
